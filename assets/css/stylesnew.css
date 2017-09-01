@@ -1,0 +1,63 @@
+ /**********************************/
+.form-sec input {
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-color: #48494b;
+  border-image: none;
+  border-style: none none dotted;
+  border-width: 0 0 2px;
+  font-size: 15px;
+  line-height: 30px;
+  padding: 0 15px;
+}
+.form-sec p, .cert-f b {
+  font-size: 18px;
+  font-weight: 100;
+  line-height: 40px;
+  margin: 40px 0 0;
+}
+.cert-f i {
+  color: #ed0707;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: bold;
+}
+.bol b {
+  font-weight: 400;
+}
+.og-sec {
+  display: inline-block;
+  margin: 0 0 40px;
+  padding: 20px 0 0 100px;
+  position: relative;
+}
+.og-sec img {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+.og-sec > b {
+  display: block;
+  font-size: 35px;
+  font-weight: bolder;
+  line-height: 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+.og-sec > p {
+  font-size: 14px;
+  font-weight: bold;
+  line-height: normal;
+  margin: 25px 0 5px;
+}
+.og-sec h5 {
+  font-size: 30px;
+  font-weight: 800;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+.form-sec {
+  padding: 30px 0;
+}
