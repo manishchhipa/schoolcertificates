@@ -3,7 +3,9 @@
         
         <div style="min-height: 600px;    margin: 0 0 0 0;" id="page-wrapper" >
             <div  style="min-height: 600px;" id="page-inner">
+			 test
 			 
+			 test
 				    <div class="row">
 					<div class="col-lg-4">
 					</div>

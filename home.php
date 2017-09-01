@@ -6,13 +6,16 @@ require_once('blocks/header.php');
 .taskPanel .list-group {
     height: 280px;
     overflow-y: scroll;
-}
+} 
 </style>
    <div id="wrapper">
          <?php require_once('blocks/sidebar.php'); ?>
 		 <div id="page-wrapper">
             <div id="page-inner">
 
+			
+			
+			test
 
                 <div class="row">
                     <div class="col-md-12">
